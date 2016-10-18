@@ -132,6 +132,5 @@ Periodically, as you finish a feature, you will want to save your progress:
 
 `pom.xml` - maven configuration file that controls what library dependencies are included
 
-This project is modeled from https://github.com/jennybrown8/edu-java-jsp and uses the same project
-layout and configuration.  Read its README for more details.
+
 
